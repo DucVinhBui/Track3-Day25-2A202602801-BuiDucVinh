@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Bùi Đức Vinh — MSV 2A202602801  **Commit:** `<điền hash commit nộp bài>`  **Điểm tự động (`make grade`):** 84 / 88
+**Họ tên / nhóm:** Bùi Đức Vinh — MSV 2A202602801  **Commit:** `215ddf06accf7247c5f0a6a408f89cd2d97b0cbf`  **Điểm tự động (`make grade`):** 84 / 88
 (4 điểm còn lại là phần SLO trên dữ liệu ẩn do giảng viên chấm; `slo_hidden` hiện là `None`.)
 
 > Mọi số bên dưới lấy từ `reports/gameday/*.json`, `reports/workflows.json`, `reports/slo.json`, `reports/cache/*.json`
